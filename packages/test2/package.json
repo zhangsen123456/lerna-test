@@ -1,0 +1,30 @@
+{
+  "name": "test2",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "zhangsen <zhangsen@3dnest.cn>",
+  "homepage": "https://github.com/zhangsen123456/lerna-test/tree/main/packages/test2#readme",
+  "license": "ISC",
+  "main": "lib/test2.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangsen123456/lerna-test.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/test2.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/zhangsen123456/lerna-test/issues"
+  },
+  "dependencies": {
+    "jquery": "^3.6.1",
+    "test1": "^0.0.0"
+  }
+}

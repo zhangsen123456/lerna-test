@@ -24,7 +24,6 @@
     "url": "https://github.com/zhangsen123456/lerna-test/issues"
   },
   "dependencies": {
-    "jquery": "^3.6.1",
     "test1": "^0.0.0"
   }
 }
